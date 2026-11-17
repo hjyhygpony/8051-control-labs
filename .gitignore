@@ -1,0 +1,10 @@
+*.BIN
+*.HEX
+*.DSK
+*.OBJ
+*.LST
+.DS_Store
+Thumbs.db
+*.zip
+*.rar
+
